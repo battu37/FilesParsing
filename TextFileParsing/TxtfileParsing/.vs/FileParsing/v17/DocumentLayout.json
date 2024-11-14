@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\FilesParsing\\TextFileParsing\\TxtfileParsing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8481F059-983E-4444-B55D-EF96FC277A8A}|LogFileParsing\\LogFileParsing.csproj|c:\\users\\prave\\onedrive\\documents\\battu\\development\\filesparsing\\textfileparsing\\txtfileparsing\\logfileparsing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8481F059-983E-4444-B55D-EF96FC277A8A}|LogFileParsing\\LogFileParsing.csproj|solutionrelative:logfileparsing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB5B1FF-B70C-440D-A1B8-D12071E080C7}|CSVFileParsing\\CSVFileParsing.csproj|c:\\users\\prave\\onedrive\\documents\\battu\\development\\filesparsing\\textfileparsing\\txtfileparsing\\csvfileparsing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB5B1FF-B70C-440D-A1B8-D12071E080C7}|CSVFileParsing\\CSVFileParsing.csproj|solutionrelative:csvfileparsing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8481F059-983E-4444-B55D-EF96FC277A8A}|LogFileParsing\\LogFileParsing.csproj|c:\\users\\prave\\onedrive\\documents\\battu\\development\\filesparsing\\textfileparsing\\txtfileparsing\\logfileparsing\\data\\app.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8481F059-983E-4444-B55D-EF96FC277A8A}|LogFileParsing\\LogFileParsing.csproj|solutionrelative:logfileparsing\\data\\app.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.log",
+              "DocumentMoniker": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\FilesParsing\\TextFileParsing\\TxtfileParsing\\LogFileParsing\\Data\\app.log",
+              "RelativeDocumentMoniker": "LogFileParsing\\Data\\app.log",
+              "ToolTip": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\FilesParsing\\TextFileParsing\\TxtfileParsing\\LogFileParsing\\Data\\app.log",
+              "RelativeToolTip": "LogFileParsing\\Data\\app.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-14T17:52:18.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\FilesParsing\\TextFileParsing\\TxtfileParsing\\LogFileParsing\\Program.cs",
+              "RelativeDocumentMoniker": "LogFileParsing\\Program.cs",
+              "ToolTip": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\FilesParsing\\TextFileParsing\\TxtfileParsing\\LogFileParsing\\Program.cs",
+              "RelativeToolTip": "LogFileParsing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:51:42.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\FilesParsing\\TextFileParsing\\TxtfileParsing\\CSVFileParsing\\Program.cs",
+              "RelativeDocumentMoniker": "CSVFileParsing\\Program.cs",
+              "ToolTip": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\FilesParsing\\TextFileParsing\\TxtfileParsing\\CSVFileParsing\\Program.cs",
+              "RelativeToolTip": "CSVFileParsing\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwFMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:44:27.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

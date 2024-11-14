@@ -1,0 +1,15 @@
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\LogFileParsing\bin\Debug\net8.0\LogFileParsing.exe
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\LogFileParsing\bin\Debug\net8.0\LogFileParsing.deps.json
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\LogFileParsing\bin\Debug\net8.0\LogFileParsing.runtimeconfig.json
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\LogFileParsing\bin\Debug\net8.0\LogFileParsing.dll
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\LogFileParsing\bin\Debug\net8.0\LogFileParsing.pdb
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\LogFileParsing\obj\Debug\net8.0\LogFileParsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\LogFileParsing\obj\Debug\net8.0\LogFileParsing.AssemblyInfoInputs.cache
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\LogFileParsing\obj\Debug\net8.0\LogFileParsing.AssemblyInfo.cs
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\LogFileParsing\obj\Debug\net8.0\LogFileParsing.csproj.CoreCompileInputs.cache
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\LogFileParsing\obj\Debug\net8.0\LogFileParsing.sourcelink.json
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\LogFileParsing\obj\Debug\net8.0\LogFileParsing.dll
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\LogFileParsing\obj\Debug\net8.0\refint\LogFileParsing.dll
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\LogFileParsing\obj\Debug\net8.0\LogFileParsing.pdb
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\LogFileParsing\obj\Debug\net8.0\LogFileParsing.genruntimeconfig.cache
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\LogFileParsing\obj\Debug\net8.0\ref\LogFileParsing.dll

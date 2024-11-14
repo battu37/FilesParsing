@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using CsvHelper;
 using CsvHelper.Configuration;
 
-namespace TxtfileParsing
+namespace CSVFileParsing
 {
     public class Employee
     {

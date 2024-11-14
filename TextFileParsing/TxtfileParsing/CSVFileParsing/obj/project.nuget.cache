@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LuWGugeI5a8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\FilesParsing\\TextFileParsing\\TxtfileParsing\\CSVFileParsing\\CSVFileParsing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prave\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

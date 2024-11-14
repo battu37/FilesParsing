@@ -1,0 +1,7 @@
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\TxtfileParsing\bin\Debug\TxtfileParsing.exe.config
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\TxtfileParsing\bin\Debug\TxtfileParsing.exe
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\TxtfileParsing\bin\Debug\TxtfileParsing.pdb
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\TxtfileParsing\obj\Debug\TxtfileParsing.csproj.AssemblyReference.cache
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\TxtfileParsing\obj\Debug\TxtfileParsing.csproj.CoreCompileInputs.cache
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\TxtfileParsing\obj\Debug\TxtfileParsing.exe
+C:\Users\prave\OneDrive\Documents\Battu\Development\FilesParsing\TextFileParsing\TxtfileParsing\TxtfileParsing\obj\Debug\TxtfileParsing.pdb

@@ -1,0 +1,2 @@
+ID: 1 | Name: John Doe | Age: 30 | Department: IT
+ID: 2 | Name: Jane Smith | Age: 25 | Department: HR
